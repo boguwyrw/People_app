@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "N4AUqkXJBLMbGteyIZkFDclTd1fickkHXJA0P65JCCSbPACe9AchgoABubXnu8rBZjW9NsNbdVnHtiD6qf88iQ==",
+  "success": true,
+  "projectFilePath": "D:\\CS_Projects\\Porta\\PolandPeople_app\\PolandPeople\\PolandPeople\\PolandPeople.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\boguw\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\boguw\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\boguw\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\boguw\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\boguw\\.nuget\\packages\\system.data.sqlclient\\4.9.0\\system.data.sqlclient.4.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}
